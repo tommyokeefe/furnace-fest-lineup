@@ -1,0 +1,4 @@
+.ff-hero {
+    filter: grayscale(100%) brightness(175%);
+    opacity: 0.7;
+}
